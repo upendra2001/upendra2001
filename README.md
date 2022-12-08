@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upendra2001&label=Profile%20views&color=0e75b6&style=flat" alt="upendra2001" /> </p>
 
-- 🔭 I’m currently working on <a href="https://social-media-app-by-upendra.vercel.app/" target="blank">Social Media App</a>
+- 🔭 I’m currently working on <a href="https://social-media-app-by-upendra.vercel.app/" target="_blank">Social Media App</a>
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **upendrasc2001@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
