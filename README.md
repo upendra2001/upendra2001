@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **upendrasc2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view](https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
