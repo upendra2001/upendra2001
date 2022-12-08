@@ -17,6 +17,7 @@
 <a href="https://www.codechef.com/users/upendrasc2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1920px-Codechef%28new%29_logo.svg.png" alt="upendrasc2001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/upsc1002" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="upsc1002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/upendrasc2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="upendrasc2001" height="30" width="40" /></a>
+<a href="https://medium.com/@upendrasc2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="https://medium.com/@upendrasc2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
