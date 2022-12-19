@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upendra2001&label=Profile%20views&color=0e75b6&style=flat" alt="upendra2001" /> </p>
 
-- 🔭 I’m currently working on <a href="https://social-media-app-by-upendra.vercel.app/" target="_blank">Social Media App</a>
+- 🔭 I’m currently working on Sentiment Analysis and <a href="https://social-media-app-by-upendra.vercel.app/" target="_blank">Social Media App</a>
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
