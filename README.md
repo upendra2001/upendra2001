@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/14s_-QHEhy52aEvRNeLO9yvzNFC_3cRtX/view" target="_blank">Resume</a>
 
+- 💻 Personal <a href="https://upendra2001.github.io/Portfolio/" target="_blank">Portfolio </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/upendrasc2001/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/upendrasc2001/" height="30" width="40" /></a>
